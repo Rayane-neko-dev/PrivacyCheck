@@ -23,6 +23,8 @@ The purpose of this app is **educational** — it demonstrates the intersection 
 ```bash
 git clone https://github.com/yourusername/privacycheck.git
 cd privacycheck
+
+
 Create a virtual environment
 
 python -m venv venv
