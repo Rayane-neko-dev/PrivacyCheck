@@ -13,6 +13,5 @@ This project is **educational** and demonstrates the link between **informatics,
 - GDPR questionnaire with multiple-choice questions  
 - Automatic compliance evaluation (Compliant / Partially Compliant / Non-Compliant)  
 - Explanations and recommendations for users  
-- Responsive layout using HTML/CSS (Bootstrap or free template)  
-
+- Responsive layout using HTML/CSS
 ---
